@@ -6,7 +6,7 @@ This website showcases my projects, skills, and experience.
 
 ## Live Demo
 
-👉 [Click here to view it!](https://rashi7903.github.io/PORTFOLIO/)
+👉 [Click here to view it!]( https://rashi7903.github.io/resume-builder/)
 
 ## Technologies Used
 
